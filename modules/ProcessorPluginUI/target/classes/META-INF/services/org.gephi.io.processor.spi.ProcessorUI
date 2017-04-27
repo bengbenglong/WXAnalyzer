@@ -1,0 +1,8 @@
+org.gephi.ui.processor.plugin.DefaultProcessorUI
+#position=1000
+org.gephi.ui.processor.plugin.AppendProcessorUI
+#position=2000
+org.gephi.ui.processor.plugin.MultiProcessorUI
+#position=3000
+org.gephi.ui.processor.plugin.MergeProcessorUI
+#position=4000

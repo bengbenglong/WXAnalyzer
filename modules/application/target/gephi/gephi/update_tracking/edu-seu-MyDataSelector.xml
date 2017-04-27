@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="edu.seu.MyDataSelector">
+    <module_version install_time="1490924043394" last="true" origin="installer" specification_version="0.1.0">
+        <file crc="943072822" name="config/Modules/edu-seu-MyDataSelector.xml"/>
+        <file crc="3717453674" name="modules/edu-seu-MyDataSelector.jar"/>
+    </module_version>
+</module>

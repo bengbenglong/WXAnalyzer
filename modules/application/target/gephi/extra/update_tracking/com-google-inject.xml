@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="com.google.inject">
+    <module_version install_time="1490924043594" last="true" origin="installer" specification_version="4.0.0">
+        <file crc="3028215335" name="config/Modules/com-google-inject.xml"/>
+        <file crc="4152903203" name="modules/com-google-inject.jar"/>
+    </module_version>
+</module>

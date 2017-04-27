@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+AutoUpdate-Essential-Module: true
+OpenIDE-Module-Specification-Version: 0.9.0
+OpenIDE-Module-Display-Category: Libraries
+OpenIDE-Module-Name: UI Library Wrapper
+OpenIDE-Module-Implementation-Version: 0.9.0
+OpenIDE-Module-Build-Version: 201703310131
+OpenIDE-Module: org.gephi.ui.library.wrapper
+OpenIDE-Module-Public-Packages: com.bric.awt.*, com.bric.swing.*, com.
+ connectina.swing.fontchooser.*, net.java.dev.colorchooser.*, net.migi
+ nfocom.layout.*, net.miginfocom.swing.*, org.pushingpixels.flamingo.*
+ *, org.jdesktop.swingx.**, org.jdesktop.beansbinding.**, org.jdesktop
+ .animation.**
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Short-Description: 关联人关系网分析系统
+OpenIDE-Module-Long-Description: 关联人关系网分析系统
+X-Class-Path: ext/org.gephi.ui-library-wrapper/org-pushingpixels/flami
+ ngo.jar ext/org.gephi.ui-library-wrapper/org-pushingpixels/trident.ja
+ r ext/org.gephi.ui-library-wrapper/org-swinglabs-swingx/swingx-all.ja
+ r ext/org.gephi.ui-library-wrapper/org-jdesktop/beansbinding.jar ext/
+ org.gephi.ui-library-wrapper/com-connectina-swing/fontchooser.jar ext
+ /org.gephi.ui-library-wrapper/net-java-dev/colorchooser.jar ext/org.g
+ ephi.ui-library-wrapper/com-miglayout/miglayout.jar ext/org.gephi.ui-
+ library-wrapper/net-java-dev/timingframework.jar
+Maven-Class-Path: org.pushingpixels:flamingo:5.0-gephi org.pushingpixe
+ ls:trident:1.3 org.swinglabs.swingx:swingx-all:1.6.5-1 org.jdesktop:b
+ eansbinding:1.2.1 com.connectina.swing:fontchooser:1.0 net.java.dev:c
+ olorchooser:1.0 com.miglayout:miglayout:3.7.4 net.java.dev:timingfram
+ ework:1.1
+

@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: edu/seu/networkbuildapi/Bundle.prope
+ rties
+OpenIDE-Module-Specification-Version: 0.1.0
+OpenIDE-Module-Implementation-Version: 0.1.0
+OpenIDE-Module-Build-Version: 201703310132
+OpenIDE-Module: edu.seu.NetworkBulid
+OpenIDE-Module-Public-Packages: edu.seu.networkbuild.api.*, edu.seu.ne
+ tworkbuild.container.api.*, edu.seu.networkbuild.impl.*, edu.seu.netw
+ orkbuild.util.api.*
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Display-Category: edu.seu
+OpenIDE-Module-Name: NetworkBulid
+OpenIDE-Module-Short-Description: 关联人关系网分析系统
+OpenIDE-Module-Long-Description: 关联人关系网分析系统
+OpenIDE-Module-Module-Dependencies: org.netbeans.api.annotations.commo
+ n/1 > 1.26.1, org.gephi.graph.api > 0.9.0.1, org.gephi.project.api > 
+ 0.9.0, org.openide.util.lookup > 8.32.1, org.gephi.db.drivers > 0.9.0
+ , org.openide.util > 9.5.1, org.gephi.layout.plugin > 0.9.0, org.geph
+ i.layout.api > 0.9.0.1, org.gephi.utils.longtask > 0.9.0
+

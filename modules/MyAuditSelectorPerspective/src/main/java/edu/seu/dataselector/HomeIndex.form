@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="jScrollPane3" pref="0" max="32767" attributes="0"/>
+                  <Component id="friend" max="32767" attributes="0"/>
+                  <Component id="keyword" max="32767" attributes="0"/>
+                  <Component id="jScrollPane1" alignment="1" pref="0" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace min="40" pref="40" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="group" max="32767" attributes="0"/>
+                  <Component id="diff" pref="475" max="32767" attributes="0"/>
+                  <Component id="jScrollPane2" pref="0" max="32767" attributes="0"/>
+                  <Component id="jScrollPane4" pref="0" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="50" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="friend" linkSize="1" alignment="3" min="-2" pref="129" max="-2" attributes="0"/>
+                  <Component id="group" linkSize="1" alignment="3" min="-2" pref="129" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jScrollPane1" linkSize="2" max="32767" attributes="0"/>
+                  <Component id="jScrollPane2" linkSize="2" max="32767" attributes="0"/>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="44" max="-2" attributes="0"/>
+                      <Component id="diff" linkSize="1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="keyword" linkSize="1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jScrollPane3" min="-2" pref="102" max="-2" attributes="0"/>
+                  <Component id="jScrollPane4" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="89" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JButton" name="friend">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="&#x65b9;&#x6b63;&#x59da;&#x4f53;" size="48" style="0"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/edu/seu/dataselector/Brandnew/image/friend_48.png"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&#x5173;&#x8054;&#x4eba;&#x5173;&#x7cfb;&#x7f51;" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="group">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="&#x65b9;&#x6b63;&#x59da;&#x4f53;" size="48" style="0"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/edu/seu/dataselector/Brandnew/image/group2_48.png"/>
+        </Property>
+        <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+          <ResourceString bundle="edu/seu/dataselector/Bundle.properties" key="HomeIndex.group.text" replaceFormat="org.openide.util.NbBundle.getMessage({sourceFileName}.class, &quot;{key}&quot;)"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="keyword">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="&#x65b9;&#x6b63;&#x59da;&#x4f53;" size="48" style="0"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/edu/seu/dataselector/Brandnew/image/chat_48.png"/>
+        </Property>
+        <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+          <ResourceString bundle="edu/seu/dataselector/Bundle.properties" key="HomeIndex.keyword.text" replaceFormat="org.openide.util.NbBundle.getMessage({sourceFileName}.class, &quot;{key}&quot;)"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="diff">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="&#x65b9;&#x6b63;&#x59da;&#x4f53;" size="48" style="0"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/edu/seu/dataselector/Brandnew/image/diff3_48.png"/>
+        </Property>
+        <Property name="text" type="java.lang.String" editor="org.netbeans.modules.i18n.form.FormI18nStringEditor">
+          <ResourceString bundle="edu/seu/dataselector/Bundle.properties" key="HomeIndex.diff.text" replaceFormat="org.openide.util.NbBundle.getMessage({sourceFileName}.class, &quot;{key}&quot;)"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <Properties>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="null"/>
+        </Property>
+        <Property name="horizontalScrollBarPolicy" type="int" value="31"/>
+        <Property name="verticalScrollBarPolicy" type="int" value="21"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextPane" name="jTextPane1">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="cc" red="cc" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="null"/>
+            </Property>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" size="18" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x70b9;&#x51fb;&#x8fdb;&#x5165;&#x5173;&#x8054;&#x4eba;&#x5173;&#x7cfb;&#x7f51;&#x6570;&#x636e;&#x64cd;&#x4f5c;&#x754c;&#x9762;&#xff0c;&#x53ef;&#x4ee5;&#x751f;&#x6210;&#x5355;&#x4e2a;&#x5173;&#x8054;&#x4eba;&#x7684;&#x81ea;&#x4e2d;&#x5fc3;&#x7f51;&#x7edc;&#x6216;&#x8005;&#x591a;&#x4e2a;&#x5173;&#x8054;&#x4eba;&#x4e4b;&#x95f4;&#x7684;&#x5173;&#x8054;&#x5173;&#x7cfb;&#x7f51;&#x7edc;&#x3002;" noResource="true"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+      <Properties>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="null"/>
+        </Property>
+        <Property name="horizontalScrollBarPolicy" type="int" value="31"/>
+        <Property name="verticalScrollBarPolicy" type="int" value="21"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextPane" name="jTextPane2">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="cc" red="cc" type="rgb"/>
+            </Property>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" size="18" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x70b9;&#x51fb;&#x8fdb;&#x5165;&#x7fa4;&#x7ec4;&#x7ba1;&#x5916;&#x7f51;&#x6570;&#x636e;&#x64cd;&#x4f5c;&#x754c;&#x9762;&#xff0c;&#x53ef;&#x4ee5;&#x751f;&#x6210;&#x5355;&#x4e2a;&#x7fa4;&#x7ec4;&#x7684;&#x81ea;&#x4e2d;&#x5fc3;&#x7f51;&#x7edc;&#x6216;&#x8005;&#x591a;&#x4e2a;&#x7fa4;&#x7ec4;&#x4e4b;&#x95f4;&#x7684;&#x5173;&#x8054;&#x5173;&#x7cfb;&#x7f51;" noResource="true"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+      <Properties>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="null"/>
+        </Property>
+        <Property name="horizontalScrollBarPolicy" type="int" value="31"/>
+        <Property name="verticalScrollBarPolicy" type="int" value="21"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextPane" name="jTextPane3">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="cc" red="cc" type="rgb"/>
+            </Property>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" size="18" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x70b9;&#x51fb;&#x8fdb;&#x5165;&#x7fa4;&#x7ec4;&#x95f4;&#x6d88;&#x606f;&#x4f20;&#x64ad;&#x7f51;&#x64cd;&#x4f5c;&#x754c;&#x9762;&#xff0c;&#x6b64;&#x754c;&#x9762;&#x4e2d;&#x53ef;&#x4ee5;&#x9009;&#x5b9a;&#x7279;&#x5b9a;&#x5173;&#x952e;&#x8bcd;&#xff0c;&#x751f;&#x6210;&#x8be5;&#x5173;&#x952e;&#x8bcd;&#x5728;&#x7fa4;&#x6210;&#x5458;&#x548c;&#x7fa4;&#x7ec4;&#x4e4b;&#x95f4;&#x7684;&#x53d1;&#x9001;&#x63a5;&#x6536;&#x5173;&#x7cfb;&#x7f51;&#x3002;" noResource="true"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane4">
+      <Properties>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="null"/>
+        </Property>
+        <Property name="horizontalScrollBarPolicy" type="int" value="31"/>
+        <Property name="verticalScrollBarPolicy" type="int" value="21"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextPane" name="jTextPane4">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="cc" red="cc" type="rgb"/>
+            </Property>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" size="18" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x5355;&#x51fb;&#x76f4;&#x63a5;&#x751f;&#x6210;&#x6d88;&#x606f;&#x4f20;&#x64ad;&#x6982;&#x7387;&#x8def;&#x5f84;&#x7f51;&#x7edc;&#x3002;&#x8be5;&#x7f51;&#x7edc;&#x662f;&#x6839;&#x636e;&#x7fa4;&#x804a;&#x6d88;&#x606f;&#x4ee5;&#x53ca;&#x7fa4;&#x6210;&#x5458;&#x7684;&#x8f6c;&#x53d1;&#x884c;&#x4e3a;&#x63a8;&#x6d4b;&#x5f97;&#x5230;&#x7684;&#x4e00;&#x4e2a;&#x6982;&#x7387;&#x7f51;&#x7edc;&#xff0c;&#x7f51;&#x7edc;&#x4e2d;&#x7684;&#x8fb9;&#x8868;&#x793a;&#x8282;&#x70b9;&#x4e4b;&#x95f4;&#x53ef;&#x80fd;&#x6709;&#x6d88;&#x606f;&#x4f20;&#x64ad;&#x884c;&#x4e3a;&#xff0c;&#x8fb9;&#x6743;&#x91cd;&#x4e3a;&#x6d88;&#x606f;&#x4f20;&#x64ad;&#x6982;&#x7387;&#x3002;" noResource="true"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

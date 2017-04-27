@@ -1,0 +1,3 @@
+org.gephi.datalab.plugin.manipulators.edges.SelectNodesOnTableBuilder
+org.gephi.datalab.plugin.manipulators.edges.SelectSourceOnGraphBuilder
+org.gephi.datalab.plugin.manipulators.edges.SelectTargetOnGraphBuilder

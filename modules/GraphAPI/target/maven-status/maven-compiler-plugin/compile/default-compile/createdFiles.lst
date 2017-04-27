@@ -1,0 +1,10 @@
+org\gephi\graph\LegacyGraphPersistenceProvider.class
+org\gephi\graph\LegacyAttributeRowsPersistenceProvider.class
+org\gephi\graph\api\GraphController.class
+org\gephi\graph\LegacyMapHelper.class
+org\gephi\graph\GraphPersistenceProvider.class
+org\gephi\graph\GraphControllerImpl.class
+META-INF\services\org.gephi.graph.api.GraphController
+META-INF\services\org.gephi.project.spi.WorkspacePersistenceProvider
+org\gephi\graph\LegacyDataPersistenceProvider.class
+org\gephi\graph\LegacyAttributePersistenceProvider.class

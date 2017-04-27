@@ -1,0 +1,10 @@
+org\gephi\statistics\plugin\PageRankNGTest.class
+org\gephi\statistics\plugin\HitsNGTest.class
+org\gephi\statistics\plugin\EigenvectorCentralityNGTest.class
+org\gephi\statistics\plugin\DegreeNGTest.class
+org\gephi\statistics\plugin\GraphDensityNGTest.class
+org\gephi\statistics\plugin\ModularityNGTest.class
+org\gephi\statistics\plugin\GraphDistanceNGTest.class
+org\gephi\statistics\plugin\ConnectedComponentsNGTest.class
+org\gephi\statistics\plugin\ClusteringCoefficientNGTest.class
+org\gephi\statistics\plugin\GraphGenerator.class

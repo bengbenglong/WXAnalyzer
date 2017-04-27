@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+AutoUpdate-Essential-Module: true
+OpenIDE-Module-Localizing-Bundle: org/gephi/tools/api/Bundle.propertie
+ s
+OpenIDE-Module-Specification-Version: 0.9.0
+OpenIDE-Module-Display-Category: Gephi Core
+OpenIDE-Module-Name: Tools API
+OpenIDE-Module-Implementation-Version: 0.9.0
+OpenIDE-Module-Build-Version: 201703310132
+OpenIDE-Module: org.gephi.tools.api
+OpenIDE-Module-Public-Packages: org.gephi.tools.api.*, org.gephi.tools
+ .spi.*
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Short-Description: 关联人关系网分析系统
+OpenIDE-Module-Long-Description: 关联人关系网分析系统
+OpenIDE-Module-Module-Dependencies: org.gephi.graph.api > 0.9.0.1
+

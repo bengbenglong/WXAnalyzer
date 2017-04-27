@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="edu.seu.NetworkBulid">
+    <module_version install_time="1490923939813" last="true" origin="installer" specification_version="0.1.0">
+        <file crc="1997516326" name="config/Modules/edu-seu-NetworkBulid.xml"/>
+        <file crc="4184049130" name="modules/edu-seu-NetworkBulid.jar"/>
+    </module_version>
+</module>

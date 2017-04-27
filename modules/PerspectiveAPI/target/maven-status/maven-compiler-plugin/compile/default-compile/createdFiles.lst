@@ -1,0 +1,6 @@
+org\gephi\perspective\PerspectiveControllerImpl$2.class
+org\gephi\perspective\api\PerspectiveController.class
+org\gephi\perspective\PerspectiveControllerImpl$1.class
+org\gephi\perspective\spi\Perspective.class
+META-INF\services\org.gephi.perspective.api.PerspectiveController
+org\gephi\perspective\PerspectiveControllerImpl.class

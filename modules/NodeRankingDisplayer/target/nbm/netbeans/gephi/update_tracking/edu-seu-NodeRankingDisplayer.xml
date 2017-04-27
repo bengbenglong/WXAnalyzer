@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="edu.seu.NodeRankingDisplayer">
+    <module_version install_time="1490924053504" last="true" origin="installer" specification_version="0.1.0">
+        <file crc="2609046804" name="config/Modules/edu-seu-NodeRankingDisplayer.xml"/>
+        <file crc="1580184731" name="modules/edu-seu-NodeRankingDisplayer.jar"/>
+    </module_version>
+</module>

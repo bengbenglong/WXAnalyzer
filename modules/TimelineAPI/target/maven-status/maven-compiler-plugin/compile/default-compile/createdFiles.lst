@@ -1,0 +1,16 @@
+org\gephi\timeline\api\TimelineModel$PlayMode.class
+org\gephi\timeline\TimelineChartImpl.class
+org\gephi\timeline\TimelineControllerImpl$4.class
+org\gephi\timeline\TimelineModelImpl.class
+org\gephi\timeline\api\TimelineChart.class
+org\gephi\timeline\api\TimelineController.class
+org\gephi\timeline\TimelineControllerImpl$1.class
+org\gephi\timeline\GraphObserverThread.class
+org\gephi\timeline\TimelineControllerImpl$2.class
+org\gephi\timeline\api\TimelineModelListener.class
+META-INF\services\org.gephi.timeline.api.TimelineController
+org\gephi\timeline\TimelineControllerImpl$3.class
+org\gephi\timeline\api\TimelineModelEvent$EventType.class
+org\gephi\timeline\api\TimelineModelEvent.class
+org\gephi\timeline\api\TimelineModel.class
+org\gephi\timeline\TimelineControllerImpl.class

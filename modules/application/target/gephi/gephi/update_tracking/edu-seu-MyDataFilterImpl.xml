@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="edu.seu.MyDataFilterImpl">
+    <module_version install_time="1490924042644" last="true" origin="installer" specification_version="0.1.0">
+        <file crc="1334936187" name="config/Modules/edu-seu-MyDataFilterImpl.xml"/>
+        <file crc="2896903491" name="modules/edu-seu-MyDataFilterImpl.jar"/>
+    </module_version>
+</module>

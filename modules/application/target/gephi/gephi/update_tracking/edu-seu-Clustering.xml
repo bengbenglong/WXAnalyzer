@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="edu.seu.Clustering">
+    <module_version install_time="1490924043178" last="true" origin="installer" specification_version="0.1.0">
+        <file crc="2936764576" name="config/Modules/edu-seu-Clustering.xml"/>
+        <file crc="1328255452" name="modules/edu-seu-Clustering.jar"/>
+        <file crc="2940920719" name="modules/ext/edu.seu.Clustering/colt/colt.jar"/>
+        <file crc="2325472648" name="modules/ext/edu.seu.Clustering/concurrent/concurrent.jar"/>
+        <file crc="3546030778" name="modules/ext/edu.seu.Clustering/it-unimi-dsi/fastutil.jar"/>
+        <file crc="2216476816" name="modules/ext/edu.seu.Clustering/joda-time/joda-time.jar"/>
+        <file crc="584687116" name="modules/ext/edu.seu.Clustering/org-gephi/graphstore.jar"/>
+    </module_version>
+</module>

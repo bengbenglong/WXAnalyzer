@@ -1,0 +1,12 @@
+org\gephi\utils\longtask\api\LongTaskExecutor$NamedThreadFactory.class
+org\gephi\utils\longtask\api\LongTaskExecutor.class
+org\gephi\utils\longtask\api\LongTaskExecutor$RunningLongTask$1.class
+org\gephi\utils\progress\Progress.class
+org\gephi\utils\progress\ProgressTicketProvider.class
+org\gephi\utils\longtask\api\LongTaskListener.class
+org\gephi\utils\longtask\api\LongTaskExecutor$RunningLongTask.class
+org\gephi\utils\longtask\api\LongTaskExecutor$1.class
+org\gephi\utils\progress\ProgressTicket.class
+org\gephi\utils\longtask\spi\LongTask.class
+org\gephi\utils\longtask\api\LongTaskExecutor$InterruptTimerTask.class
+org\gephi\utils\longtask\api\LongTaskErrorHandler.class

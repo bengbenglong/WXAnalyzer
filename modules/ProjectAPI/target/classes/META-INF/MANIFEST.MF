@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+AutoUpdate-Essential-Module: true
+OpenIDE-Module-Layer: org/gephi/project/api/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/gephi/project/api/Bundle.propert
+ ies
+OpenIDE-Module-Specification-Version: 0.9.0
+OpenIDE-Module-Display-Category: Gephi Core
+OpenIDE-Module-Name: Project API
+OpenIDE-Module-Implementation-Version: 0.9.0
+OpenIDE-Module-Build-Version: 201703310131
+OpenIDE-Module: org.gephi.project.api
+OpenIDE-Module-Public-Packages: org.gephi.project.api.*, org.gephi.pro
+ ject.spi.*, org.gephi.workspace.api.*, org.gephi.workspace.spi.*
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Short-Description: 关联人关系网分析系统
+OpenIDE-Module-Long-Description: 关联人关系网分析系统
+OpenIDE-Module-Module-Dependencies: org.openide.filesystems > 9.8.1, o
+ rg.openide.util > 9.5.1, org.openide.util.lookup > 8.32.1, org.gephi.
+ utils.longtask > 0.9.0
+

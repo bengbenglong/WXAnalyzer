@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.gephi.utils.longtask">
+    <module_version install_time="1490924040004" last="true" origin="installer" specification_version="0.9.0">
+        <file crc="1925787225" name="config/Modules/org-gephi-utils-longtask.xml"/>
+        <file crc="3939432362" name="modules/org-gephi-utils-longtask.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="edu.seu.MyLabPerspective">
+    <module_version install_time="1490923943560" last="true" origin="installer" specification_version="0.1.0">
+        <file crc="229275736" name="config/Modules/edu-seu-MyLabPerspective.xml"/>
+        <file crc="313429028" name="modules/edu-seu-MyLabPerspective.jar"/>
+    </module_version>
+</module>

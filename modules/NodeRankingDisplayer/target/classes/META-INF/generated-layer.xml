@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Windows2">
+        <folder name="Roles">
+            <folder name="overview">
+                <folder name="Components">
+                    <file name="RankingPanelTopComponent.settings">
+                        <!--edu.seu.noderankingdisplayer.RankingPanelTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="edu.seu.noderankingdisplayer.RankingPanelTopComponent"/>
+</settings>
+]]></file>
+                </folder>
+                <folder name="Modes">
+                    <folder name="contextmode">
+                        <file name="RankingPanelTopComponent.wstcref">
+                            <!--edu.seu.noderankingdisplayer.RankingPanelTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="RankingPanelTopComponent"/>
+  <state opened="false"/>
+</tc-ref>
+]]></file>
+                    </folder>
+                </folder>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Actions">
+        <folder name="Window">
+            <file name="edu-seu-noderankingdisplayer-RankingPanelTopComponent.instance">
+                <!--edu.seu.noderankingdisplayer.RankingPanelTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="edu.seu.noderankingdisplayer.RankingPanelTopComponent"/>
+                <attr name="preferredID" stringvalue="RankingPanelTopComponent"/>
+                <attr
+                    bundlevalue="edu.seu.noderankingdisplayer.Bundle#CTL_RankingPanelAction" name="displayName"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Menu">
+        <folder name="Window">
+            <file name="edu-seu-noderankingdisplayer-RankingPanelTopComponent.shadow">
+                <!--edu.seu.noderankingdisplayer.RankingPanelTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/edu-seu-noderankingdisplayer-RankingPanelTopComponent.instance"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="xml">
+        <folder name="entities">
+            <folder name="edu_seu_noderankingdisplayer">
+                <file name="RankingPanel" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--edu.seu.noderankingdisplayer.RankingPanelTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//edu.seu.noderankingdisplayer//RankingPanel//EN"/>
+                </file>
+            </folder>
+        </folder>
+        <folder name="memory">
+            <folder name="edu">
+                <folder name="seu">
+                    <folder name="noderankingdisplayer">
+                        <file name="RankingPanelTopComponent">
+                            <!--edu.seu.noderankingdisplayer.RankingPanelTopComponent-->
+                            <attr name="settings.providerPath" stringvalue="xml/lookups//edu_seu_noderankingdisplayer/RankingPanel.instance"/>
+                        </file>
+                    </folder>
+                </folder>
+            </folder>
+        </folder>
+        <folder name="lookups">
+            <folder name="edu_seu_noderankingdisplayer">
+                <file name="RankingPanel.instance">
+                    <!--edu.seu.noderankingdisplayer.RankingPanelTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="edu.seu.noderankingdisplayer.RankingPanelTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="edu.seu.noderankingdisplayer.RankingPanelTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>

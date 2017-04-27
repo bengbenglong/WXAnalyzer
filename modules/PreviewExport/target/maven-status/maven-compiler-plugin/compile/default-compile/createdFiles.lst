@@ -1,0 +1,10 @@
+org\gephi\io\exporter\preview\PDFExporter.class
+org\gephi\io\exporter\preview\util\LengthUnit.class
+org\gephi\io\exporter\preview\util\LengthUnit$1.class
+org\gephi\io\exporter\preview\SVGExporter.class
+org\gephi\io\exporter\preview\util\SupportSize.class
+META-INF\services\org.gephi.io.exporter.spi.VectorFileExporterBuilder
+org\gephi\io\exporter\preview\ExporterBuilderPDF.class
+org\gephi\io\exporter\preview\ExporterBuilderSVG.class
+org\gephi\io\exporter\preview\PNGExporter.class
+org\gephi\io\exporter\preview\ExporterBuilderPNG.class

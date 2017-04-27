@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+AutoUpdate-Essential-Module: true
+OpenIDE-Module-Localizing-Bundle: org/gephi/preview/api/Bundle.propert
+ ies
+OpenIDE-Module-Specification-Version: 0.9.0.2
+OpenIDE-Module-Display-Category: Gephi Core
+OpenIDE-Module-Name: Preview API
+OpenIDE-Module-Implementation-Version: 0.9.0
+OpenIDE-Module-Build-Version: 201703020206
+OpenIDE-Module: org.gephi.preview.api
+OpenIDE-Module-Public-Packages: org.gephi.preview.api.*, org.gephi.pre
+ view.presets.*, org.gephi.preview.spi.*, org.gephi.preview.types.*, o
+ rg.gephi.preview.types.editors.*
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Short-Description: 关联人关系网分析系统
+OpenIDE-Module-Long-Description: 关联人关系网分析系统
+OpenIDE-Module-Module-Dependencies: org.gephi.graph.api > 0.9.0.1, org
+ .gephi.project.api > 0.9.0, org.gephi.utils.longtask > 0.9.0, org.gep
+ hi.core.library.wrapper > 0.9.0, org.openide.util.lookup > 8.32.1, or
+ g.openide.util > 9.5.1, org.openide.util.ui > 9.4.1, org.gephi.utils 
+ > 0.9.0
+

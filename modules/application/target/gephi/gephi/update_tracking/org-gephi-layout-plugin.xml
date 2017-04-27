@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.gephi.layout.plugin">
+    <module_version install_time="1490924042209" last="true" origin="installer" specification_version="0.9.0">
+        <file crc="3896076950" name="config/Modules/org-gephi-layout-plugin.xml"/>
+        <file crc="852510571" name="modules/org-gephi-layout-plugin.jar"/>
+    </module_version>
+</module>

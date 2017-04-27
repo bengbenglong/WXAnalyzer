@@ -1,0 +1,5 @@
+org\gephi\ui\processor\plugin\DefaultProcessorUI.class
+META-INF\services\org.gephi.io.processor.spi.ProcessorUI
+org\gephi\ui\processor\plugin\MergeProcessorUI.class
+org\gephi\ui\processor\plugin\MultiProcessorUI.class
+org\gephi\ui\processor\plugin\AppendProcessorUI.class

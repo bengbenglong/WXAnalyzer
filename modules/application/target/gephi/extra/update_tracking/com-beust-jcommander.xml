@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="com.beust.jcommander">
+    <module_version install_time="1490924043607" last="true" origin="installer" specification_version="1.48.0">
+        <file crc="4006592940" name="config/Modules/com-beust-jcommander.xml"/>
+        <file crc="3653142886" name="modules/com-beust-jcommander.jar"/>
+    </module_version>
+</module>

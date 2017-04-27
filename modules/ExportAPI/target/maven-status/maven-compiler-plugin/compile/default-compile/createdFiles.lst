@@ -1,0 +1,14 @@
+org\gephi\io\exporter\spi\VectorExporter.class
+org\gephi\io\exporter\spi\ExporterUI.class
+org\gephi\io\exporter\spi\GraphFileExporterBuilder.class
+org\gephi\io\exporter\spi\GraphExporter.class
+org\gephi\io\exporter\spi\CharacterExporter.class
+org\gephi\io\exporter\spi\FileExporterBuilder.class
+META-INF\services\org.gephi.io.exporter.api.ExportController
+org\gephi\io\exporter\spi\VectorFileExporterBuilder.class
+org\gephi\io\exporter\api\FileType.class
+org\gephi\io\exporter\spi\ByteExporter.class
+org\gephi\io\exporter\api\ExportController.class
+org\gephi\io\exporter\spi\Exporter.class
+org\gephi\io\exporter\impl\ExportControllerImpl.class
+org\gephi\io\exporter\spi\ExporterBuilder.class

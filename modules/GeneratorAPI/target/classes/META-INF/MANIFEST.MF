@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+AutoUpdate-Essential-Module: true
+OpenIDE-Module-Localizing-Bundle: org/gephi/io/generator/api/Bundle.pr
+ operties
+OpenIDE-Module-Specification-Version: 0.9.0
+OpenIDE-Module-Display-Category: Gephi Core
+OpenIDE-Module-Name: Generator API
+OpenIDE-Module-Implementation-Version: 0.9.0
+OpenIDE-Module-Build-Version: 201703310132
+OpenIDE-Module: org.gephi.io.generator.api
+OpenIDE-Module-Public-Packages: org.gephi.io.generator.api.*, org.geph
+ i.io.generator.spi.*
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Short-Description: 关联人关系网分析系统
+OpenIDE-Module-Long-Description: 关联人关系网分析系统
+OpenIDE-Module-Module-Dependencies: org.gephi.io.importer.api > 0.9.0,
+  org.gephi.utils.longtask > 0.9.0
+

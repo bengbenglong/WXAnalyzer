@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.gephi.preview.plugin">
+    <module_version install_time="1488420436952" last="true" origin="installer" specification_version="0.9.0.1">
+        <file crc="483240760" name="config/Modules/org-gephi-preview-plugin.xml"/>
+        <file crc="1317503914" name="modules/org-gephi-preview-plugin.jar"/>
+    </module_version>
+</module>
