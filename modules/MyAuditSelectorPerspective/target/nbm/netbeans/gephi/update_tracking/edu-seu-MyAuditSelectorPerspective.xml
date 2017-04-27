@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="edu.seu.MyAuditSelectorPerspective">
+    <module_version install_time="1490924008147" last="true" origin="installer" specification_version="0.1.0">
+        <file crc="3161666647" name="config/Modules/edu-seu-MyAuditSelectorPerspective.xml"/>
+        <file crc="4098129751" name="modules/edu-seu-MyAuditSelectorPerspective.jar"/>
+        <file crc="2940920719" name="modules/ext/edu.seu.MyAuditSelectorPerspective/colt/colt.jar"/>
+        <file crc="2325472648" name="modules/ext/edu.seu.MyAuditSelectorPerspective/concurrent/concurrent.jar"/>
+        <file crc="3546030778" name="modules/ext/edu.seu.MyAuditSelectorPerspective/it-unimi-dsi/fastutil.jar"/>
+        <file crc="2216476816" name="modules/ext/edu.seu.MyAuditSelectorPerspective/joda-time/joda-time.jar"/>
+        <file crc="584687116" name="modules/ext/edu.seu.MyAuditSelectorPerspective/org-gephi/graphstore.jar"/>
+    </module_version>
+</module>

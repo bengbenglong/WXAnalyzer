@@ -1,0 +1,4 @@
+org.gephi.desktop.banner.perspective.plugin.AuditSelectorPerspective
+#position=0
+org.gephi.desktop.banner.perspective.plugin.OverviewPerspective
+#position=100

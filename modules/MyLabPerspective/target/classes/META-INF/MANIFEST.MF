@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: edu/seu/lizhenglong/mylabperspective
+ /Bundle.properties
+OpenIDE-Module-Specification-Version: 0.1.0
+OpenIDE-Module-Implementation-Version: 0.1.0
+OpenIDE-Module-Build-Version: 201703310132
+OpenIDE-Module: edu.seu.MyLabPerspective
+OpenIDE-Module-Public-Packages: edu.seu.lizhenglong.mylabperspective.*
+ , edu.seu.lizhenglong.mylabperspective.api.*
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Display-Category: edu.seu
+OpenIDE-Module-Name: MyLabPerspective
+OpenIDE-Module-Short-Description: 关联人关系网分析系统
+OpenIDE-Module-Long-Description: 关联人关系网分析系统
+OpenIDE-Module-Module-Dependencies: org.openide.windows > 6.74.1, org.
+ openide.util > 9.5.1, org.openide.util.ui > 9.4.1, org.openide.util.l
+ ookup > 8.32.1, org.openide.awt > 7.65.1, org.netbeans.modules.settin
+ gs/1 > 1.48.1, org.gephi.db.drivers > 0.9.0, edu.seu.MyDataFilterAPI 
+ > 0.1.0, org.gephi.datalab.api > 0.9.0.3, org.gephi.project.api > 0.9
+ .0, org.gephi.graph.api > 0.9.0.1, org.gephi.layout.api > 0.9.0.1, or
+ g.gephi.layout.plugin > 0.9.0, org.gephi.preview.api > 0.9.0.2, org.g
+ ephi.io.importer.api > 0.9.0, org.gephi.io.processor.plugin > 0.9.0, 
+ edu.seu.NetworkBulid > 0.1.0, org.gephi.statistics.plugin > 0.9.0, or
+ g.gephi.utils.longtask > 0.9.0
+

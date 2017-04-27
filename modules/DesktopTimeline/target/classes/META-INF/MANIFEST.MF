@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+AutoUpdate-Essential-Module: true
+OpenIDE-Module-Layer: org/gephi/desktop/timeline/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/gephi/desktop/timeline/Bundle.pr
+ operties
+OpenIDE-Module-Specification-Version: 0.9.0
+OpenIDE-Module-Display-Category: Gephi UI
+OpenIDE-Module-Name: Desktop Timeline
+OpenIDE-Module-Implementation-Version: 0.9.0
+OpenIDE-Module-Build-Version: 201703020210
+OpenIDE-Module: org.gephi.desktop.timeline
+OpenIDE-Module-Public-Packages: -
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Short-Description: 关联人关系网分析系统
+OpenIDE-Module-Long-Description: 关联人关系网分析系统
+OpenIDE-Module-Module-Dependencies: org.netbeans.api.annotations.commo
+ n/1 > 1.26.1, org.gephi.desktop.banner > 0.9.0, org.gephi.lib.validat
+ ion > 0.9.0, org.gephi.graph.api > 0.9.0.1, org.gephi.timeline.api > 
+ 0.9.0.1, org.gephi.visualization > 0.9.0.3, org.gephi.ui.utils > 0.9.
+ 0, org.gephi.utils > 0.9.0, org.gephi.ui.components > 0.9.0, org.geph
+ i.core.library.wrapper > 0.9.0, org.gephi.ui.library.wrapper > 0.9.0,
+  org.openide.util.ui > 9.4.1, org.openide.dialogs > 7.41.1, org.openi
+ de.windows > 6.74.1, org.openide.util.lookup > 8.32.1, org.openide.ut
+ il > 9.5.1, org.openide.awt > 7.65.1, org.openide.filesystems > 9.8.1
+ , org.openide.nodes > 7.42.1
+

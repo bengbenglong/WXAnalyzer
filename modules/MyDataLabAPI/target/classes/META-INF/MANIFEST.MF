@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: edu/seu/lizhenglong/mydatalabapi/Bun
+ dle.properties
+OpenIDE-Module-Specification-Version: 0.1.0
+OpenIDE-Module-Implementation-Version: 0.1.0
+OpenIDE-Module-Build-Version: 201603081453
+OpenIDE-Module: edu.seu.lizhenglong.MyDataLabAPI
+OpenIDE-Module-Public-Packages: edu.seu.mydatalab.api.*
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Display-Category: edu.seu.lizhenglong
+OpenIDE-Module-Name: MyDataLabAPI
+OpenIDE-Module-Short-Description: Gephi - The Open Graph Viz Platform
+OpenIDE-Module-Long-Description: Gephi - The Open Graph Viz Platform
+OpenIDE-Module-Module-Dependencies: org.netbeans.api.annotations.commo
+ n/1 > 1.26.1
+

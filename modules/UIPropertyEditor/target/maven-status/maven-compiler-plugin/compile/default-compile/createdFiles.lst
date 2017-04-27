@@ -1,0 +1,11 @@
+org\gephi\ui\propertyeditor\EdgeColumnStringEditor.class
+org\gephi\ui\propertyeditor\EdgeColumnDynamicNumbersEditor.class
+org\gephi\ui\propertyeditor\AbstractAttributeColumnPropertyEditor$EditorClass.class
+org\gephi\ui\propertyeditor\EdgeColumnAllNumbersEditor.class
+org\gephi\ui\propertyeditor\NodeColumnAllNumbersEditor.class
+org\gephi\ui\propertyeditor\NodeColumnStringEditor.class
+org\gephi\ui\propertyeditor\NodeColumnDynamicNumbersEditor.class
+org\gephi\ui\propertyeditor\EdgeColumnNumbersEditor.class
+org\gephi\ui\propertyeditor\NodeColumnNumbersEditor.class
+org\gephi\ui\propertyeditor\AbstractAttributeColumnPropertyEditor.class
+org\gephi\ui\propertyeditor\AbstractAttributeColumnPropertyEditor$AttributeTypeClass.class

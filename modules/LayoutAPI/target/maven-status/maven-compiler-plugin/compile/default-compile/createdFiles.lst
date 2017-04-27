@@ -1,0 +1,16 @@
+org\gephi\layout\LayoutModelImpl$LayoutPropertyKey.class
+org\gephi\layout\spi\LayoutBuilder.class
+org\gephi\layout\spi\Layout.class
+org\gephi\layout\LayoutModelImpl$1.class
+META-INF\services\org.gephi.layout.api.LayoutController
+org\gephi\layout\LayoutControllerImpl.class
+org\gephi\layout\spi\LayoutUI.class
+org\gephi\layout\LayoutControllerImpl$1.class
+org\gephi\layout\LayoutModelImpl$2.class
+org\gephi\layout\api\LayoutModel.class
+org\gephi\layout\api\LayoutController.class
+META-INF\services\org.gephi.project.spi.WorkspacePersistenceProvider
+org\gephi\layout\spi\LayoutProperty.class
+org\gephi\layout\LayoutControllerImpl$LayoutRun.class
+org\gephi\layout\LayoutModelImpl.class
+org\gephi\layout\LayoutModelPersistenceProvider.class

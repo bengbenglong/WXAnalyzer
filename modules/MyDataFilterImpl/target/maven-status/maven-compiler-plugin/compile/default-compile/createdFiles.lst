@@ -1,0 +1,6 @@
+edu\seu\mydatafilter\tablefilter\impl\FriendsTableFilter$1.class
+edu\seu\mydatafilter\tablefilter\impl\MsgMonitorTableFilter$1.class
+edu\seu\mydatafilter\tablefilter\impl\FriendsTableFilter.class
+META-INF\services\edu.seu.mydatafilter.tablefilter.api.TableDataFilter
+edu\seu\mydatafilter\tablefilter\impl\TableDataFilterImpl.class
+edu\seu\mydatafilter\tablefilter\impl\MsgMonitorTableFilter.class

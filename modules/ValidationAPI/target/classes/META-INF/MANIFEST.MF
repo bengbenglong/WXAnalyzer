@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+AutoUpdate-Essential-Module: true
+OpenIDE-Module-Localizing-Bundle: org/gephi/lib/validation/Bundle.prop
+ erties
+OpenIDE-Module-Specification-Version: 0.9.0
+OpenIDE-Module-Display-Category: Libraries
+OpenIDE-Module-Name: ValidationAPI
+OpenIDE-Module-Implementation-Version: 0.9.0
+OpenIDE-Module-Build-Version: 201703310131
+OpenIDE-Module: org.gephi.lib.validation
+OpenIDE-Module-Public-Packages: org.gephi.lib.validation.*, org.netbea
+ ns.validation.**
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Short-Description: 关联人关系网分析系统
+OpenIDE-Module-Long-Description: 关联人关系网分析系统
+X-Class-Path: ext/org.gephi.lib.validation/org-netbeans/simple-validat
+ ion.jar
+Maven-Class-Path: org.netbeans:simple-validation:1.0
+OpenIDE-Module-Module-Dependencies: org.openide.util > 9.5.1, org.open
+ ide.util.lookup > 8.32.1
+

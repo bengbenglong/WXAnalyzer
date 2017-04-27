@@ -1,0 +1,17 @@
+org\gephi\appearance\plugin\AbstractUniqueSizeTransformer.class
+META-INF\services\org.gephi.appearance.spi.Transformer
+org\gephi\appearance\plugin\PartitionElementColorTransformer.class
+org\gephi\appearance\plugin\UniqueLabelSizeTransformer.class
+org\gephi\appearance\plugin\palette\Preset.class
+org\gephi\appearance\plugin\UniqueElementColorTransformer.class
+org\gephi\appearance\plugin\palette\Palette.class
+org\gephi\appearance\plugin\RankingLabelSizeTransformer.class
+org\gephi\appearance\plugin\RankingNodeSizeTransformer.class
+org\gephi\appearance\plugin\palette\PaletteManager.class
+org\gephi\appearance\plugin\UniqueLabelColorTransformer.class
+org\gephi\appearance\plugin\AbstractUniqueColorTransformer.class
+org\gephi\appearance\plugin\palette\PaletteGenerator.class
+org\gephi\appearance\plugin\UniqueNodeSizeTransformer.class
+org\gephi\appearance\plugin\RankingElementColorTransformer$LinearGradient.class
+org\gephi\appearance\plugin\RankingElementColorTransformer.class
+org\gephi\appearance\plugin\RankingLabelColorTransformer.class

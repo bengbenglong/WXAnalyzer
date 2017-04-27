@@ -1,0 +1,3 @@
+edu\seu\datamanipulater\SelectedDataManipulater.class
+META-INF\services\edu.seu.datamanipulater.SelectedDataManipulater
+edu\seu\datamanipulater\impl\DefaultSelectedDataManipulater.class

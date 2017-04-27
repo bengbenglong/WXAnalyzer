@@ -1,0 +1,6 @@
+edu.seu.myviz.contentmenuitems.CalClusterMenu
+edu.seu.myviz.contentmenuitems.DiffRangeMenu
+edu.seu.myviz.contentmenuitems.FriendEgoMenu
+edu.seu.myviz.contentmenuitems.StartPathDemo
+edu.seu.myviz.contentmenuitems.StopPathDemo
+org.gephi.visualization.apiimpl.contextmenuitems.SelectInDataLaboratory

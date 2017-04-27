@@ -1,0 +1,67 @@
+Manifest-Version: 1.0
+AutoUpdate-Essential-Module: true
+OpenIDE-Module-Layer: org/gephi/visualization/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/gephi/visualization/Bundle.prope
+ rties
+OpenIDE-Module-Install: org/gephi/visualization/Installer.class
+OpenIDE-Module-Hide-Classpath-Packages: javax.media.openGL2.**, com.su
+ n.openGL2.**, com.sun.gluegen.runtime.**
+OpenIDE-Module-Specification-Version: 0.9.0.3
+OpenIDE-Module-Display-Category: Gephi Core
+OpenIDE-Module-Name: Visualization Module
+OpenIDE-Module-Implementation-Version: 0.9.0
+OpenIDE-Module-Build-Version: 201703310132
+OpenIDE-Module: org.gephi.visualization
+OpenIDE-Module-Public-Packages: edu.seu.myviz.msgDiffDemo.*, org.gephi
+ .visualization.*, org.gephi.visualization.api.selection.*, org.gephi.
+ visualization.apiimpl.*, org.gephi.visualization.bridge.*, org.gephi.
+ visualization.component.*, org.gephi.visualization.events.*, org.geph
+ i.visualization.model.*, org.gephi.visualization.model.edge.*, org.ge
+ phi.visualization.model.node.*, org.gephi.visualization.octree.*, org
+ .gephi.visualization.opengl.*, org.gephi.visualization.options.*, org
+ .gephi.visualization.scheduler.*, org.gephi.visualization.screenshot.
+ *, org.gephi.visualization.selection.*, org.gephi.visualization.swing
+ .*, org.gephi.visualization.text.*
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Short-Description: 关联人关系网分析系统
+OpenIDE-Module-Long-Description: 关联人关系网分析系统
+X-Class-Path: ext/org.gephi.visualization/org-jogamp-gluegen/gluegen-r
+ t.jar ext/org.gephi.visualization/org-jogamp-gluegen/gluegen-rt-nativ
+ es-linux-amd64.jar ext/org.gephi.visualization/org-jogamp-gluegen/glu
+ egen-rt-natives-linux-i586.jar ext/org.gephi.visualization/org-jogamp
+ -gluegen/gluegen-rt-natives-macosx-universal.jar ext/org.gephi.visual
+ ization/org-jogamp-gluegen/gluegen-rt-natives-windows-amd64.jar ext/o
+ rg.gephi.visualization/org-jogamp-gluegen/gluegen-rt-natives-windows-
+ i586.jar ext/org.gephi.visualization/org-jogamp-jogl/jogl-all.jar ext
+ /org.gephi.visualization/org-jogamp-jogl/jogl-all-natives-linux-amd64
+ .jar ext/org.gephi.visualization/org-jogamp-jogl/jogl-all-natives-lin
+ ux-i586.jar ext/org.gephi.visualization/org-jogamp-jogl/jogl-all-nati
+ ves-macosx-universal.jar ext/org.gephi.visualization/org-jogamp-jogl/
+ jogl-all-natives-windows-amd64.jar ext/org.gephi.visualization/org-jo
+ gamp-jogl/jogl-all-natives-windows-i586.jar
+Maven-Class-Path: org.jogamp.gluegen:gluegen-rt:2.3.2 org.jogamp.glueg
+ en:gluegen-rt:2.3.2:natives-linux-amd64 org.jogamp.gluegen:gluegen-rt
+ :2.3.2:natives-linux-i586 org.jogamp.gluegen:gluegen-rt:2.3.2:natives
+ -macosx-universal org.jogamp.gluegen:gluegen-rt:2.3.2:natives-windows
+ -amd64 org.jogamp.gluegen:gluegen-rt:2.3.2:natives-windows-i586 org.j
+ ogamp.jogl:jogl-all:2.3.2 org.jogamp.jogl:jogl-all:2.3.2:natives-linu
+ x-amd64 org.jogamp.jogl:jogl-all:2.3.2:natives-linux-i586 org.jogamp.
+ jogl:jogl-all:2.3.2:natives-macosx-universal org.jogamp.jogl:jogl-all
+ :2.3.2:natives-windows-amd64 org.jogamp.jogl:jogl-all:2.3.2:natives-w
+ indows-i586
+OpenIDE-Module-Module-Dependencies: org.gephi.graph.api > 0.9.0.1, org
+ .gephi.tools.api > 0.9.0, org.gephi.ui.components > 0.9.0, org.gephi.
+ core.library.wrapper > 0.9.0, org.gephi.ui.library.wrapper > 0.9.0, o
+ rg.gephi.ui.utils > 0.9.0, org.gephi.visualization.api > 0.9.0, org.g
+ ephi.datalab.api > 0.9.0.3, org.netbeans.modules.options.api/1 > 1.44
+ .1, org.netbeans.modules.settings/1 > 1.48.1, org.openide.awt > 7.65.
+ 1, org.openide.windows > 6.74.1, org.openide.util.lookup > 8.32.1, or
+ g.openide.util > 9.5.1, org.openide.util.ui > 9.4.1, org.openide.dial
+ ogs > 7.41.1, org.gephi.project.api > 0.9.0, org.gephi.gleem > 0.9.0,
+  org.gephi.lib.validation > 0.9.0, org.gephi.desktop.project > 0.9.0,
+  org.gephi.utils.longtask > 0.9.0, org.openide.modules > 7.47.1, edu.
+ seu.DetailDisplayer > 0.1.0, edu.seu.NetworkBulid > 0.1.0, edu.seu.Cl
+ ustering > 0.1.0, org.gephi.perspective.api > 0.9.0, org.gephi.layout
+ .api > 0.9.0.1, org.gephi.layout.plugin > 0.9.0, org.gephi.db.drivers
+  > 0.9.0
+

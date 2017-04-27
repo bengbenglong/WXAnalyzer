@@ -1,0 +1,13 @@
+META-INF\services\edu.seu.detaildisplayer.api.ShowDetail
+edu\seu\detaildisplayer\DisplayerPanel$2.class
+edu\seu\detaildisplayer\DisplayerPanel$1.class
+edu\seu\detaildisplayer\ShowDetailImpl.class
+edu\seu\detaildisplayer\RightClickMenu$1.class
+META-INF\generated-layer.xml
+edu\seu\detaildisplayer\RightClickMenu.class
+edu\seu\detaildisplayer\Bundle.class
+edu\seu\detaildisplayer\DisplayerPanel$1$1.class
+edu\seu\detaildisplayer\api\ShowDetail.class
+edu\seu\detaildisplayer\DetailDisplayerTopComponent.class
+edu\seu\detaildisplayer\DisplayerPanel.class
+edu\seu\detaildisplayer\AttributeName_zh_cn.class

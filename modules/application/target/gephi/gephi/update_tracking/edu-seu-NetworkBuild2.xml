@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="edu.seu.NetworkBuild2">
+    <module_version install_time="1490924042857" last="true" origin="installer" specification_version="0.1.0">
+        <file crc="4107156901" name="config/Modules/edu-seu-NetworkBuild2.xml"/>
+        <file crc="4028079774" name="modules/edu-seu-NetworkBuild2.jar"/>
+    </module_version>
+</module>

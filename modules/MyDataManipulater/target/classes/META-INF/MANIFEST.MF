@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: edu/seu/datamanipulater/Bundle.prope
+ rties
+OpenIDE-Module-Specification-Version: 0.1.0
+OpenIDE-Module-Implementation-Version: 0.1.0
+OpenIDE-Module-Build-Version: 201603160233
+OpenIDE-Module: edu.seu.MyDataManipulater
+OpenIDE-Module-Public-Packages: edu.seu.datamanipulater.*, edu.seu.dat
+ amanipulater.factory.*
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Display-Category: edu.seu
+OpenIDE-Module-Name: MyDataManipulater
+OpenIDE-Module-Short-Description: Gephi - The Open Graph Viz Platform
+OpenIDE-Module-Long-Description: Gephi - The Open Graph Viz Platform
+OpenIDE-Module-Module-Dependencies: org.netbeans.api.annotations.commo
+ n/1 > 1.26.1, org.openide.util.lookup > 8.32.1, org.openide.util > 9.
+ 5.1
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="edu.seu.lizhenglong.MyDataLabAPI">
+    <module_version install_time="1457448828947" last="true" origin="installer" specification_version="0.1.0">
+        <file crc="3391447831" name="config/Modules/edu-seu-lizhenglong-MyDataLabAPI.xml"/>
+        <file crc="710491508" name="modules/edu-seu-lizhenglong-MyDataLabAPI.jar"/>
+    </module_version>
+</module>

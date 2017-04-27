@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+AutoUpdate-Essential-Module: true
+OpenIDE-Module-Localizing-Bundle: org/gephi/timeline/Bundle.properties
+OpenIDE-Module-Specification-Version: 0.9.0.1
+OpenIDE-Module-Display-Category: Gephi Core
+OpenIDE-Module-Name: Timeline API
+OpenIDE-Module-Implementation-Version: 0.9.0
+OpenIDE-Module-Build-Version: 201703020208
+OpenIDE-Module: org.gephi.timeline.api
+OpenIDE-Module-Public-Packages: org.gephi.timeline.api.*, org.gephi.ti
+ meline.spi.*
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Short-Description: 关联人关系网分析系统
+OpenIDE-Module-Long-Description: 关联人关系网分析系统
+OpenIDE-Module-Module-Dependencies: org.gephi.graph.api > 0.9.0.1, org
+ .gephi.filters.api > 0.9.0.1, org.gephi.filters.plugin > 0.9.0.2, org
+ .gephi.project.api > 0.9.0, org.openide.util.lookup > 8.32.1
+

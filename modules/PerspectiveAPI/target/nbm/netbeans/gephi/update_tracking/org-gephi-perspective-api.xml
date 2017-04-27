@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.gephi.perspective.api">
+    <module_version install_time="1490923951878" last="true" origin="installer" specification_version="0.9.0">
+        <file crc="2277141879" name="config/Modules/org-gephi-perspective-api.xml"/>
+        <file crc="1708258732" name="modules/org-gephi-perspective-api.jar"/>
+    </module_version>
+</module>

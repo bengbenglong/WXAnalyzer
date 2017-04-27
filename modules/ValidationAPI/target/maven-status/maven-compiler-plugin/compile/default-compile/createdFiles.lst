@@ -1,0 +1,4 @@
+org\gephi\lib\validation\Multiple4NumberValidator.class
+org\gephi\lib\validation\ValidationClient.class
+org\gephi\lib\validation\PositiveNumberValidator.class
+org\gephi\lib\validation\BetweenZeroAndOneValidator.class

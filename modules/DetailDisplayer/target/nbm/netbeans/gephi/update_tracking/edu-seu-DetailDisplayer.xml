@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="edu.seu.DetailDisplayer">
+    <module_version install_time="1490923946513" last="true" origin="installer" specification_version="0.1.0">
+        <file crc="2335142571" name="config/Modules/edu-seu-DetailDisplayer.xml"/>
+        <file crc="1646690171" name="modules/edu-seu-DetailDisplayer.jar"/>
+    </module_version>
+</module>

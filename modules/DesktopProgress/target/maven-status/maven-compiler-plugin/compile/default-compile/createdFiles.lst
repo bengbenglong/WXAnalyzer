@@ -1,0 +1,3 @@
+org\gephi\desktop\progress\ProgressTicketProviderImpl.class
+org\gephi\desktop\progress\ProgressTicketImpl.class
+META-INF\services\org.gephi.utils.progress.ProgressTicketProvider

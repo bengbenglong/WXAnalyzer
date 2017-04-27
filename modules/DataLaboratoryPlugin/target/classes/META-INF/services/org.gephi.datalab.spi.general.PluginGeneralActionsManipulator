@@ -1,0 +1,4 @@
+org.gephi.datalab.plugin.manipulators.general.ClearEdges
+org.gephi.datalab.plugin.manipulators.general.ClearGraph
+org.gephi.datalab.plugin.manipulators.general.ManageColumnEstimators
+org.gephi.datalab.plugin.manipulators.general.MergeNodeDuplicates

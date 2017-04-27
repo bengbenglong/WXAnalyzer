@@ -1,0 +1,5 @@
+org\gephi\io\generator\plugin\RandomGraph.class
+org\gephi\io\generator\plugin\RandomGraphUI.class
+org\gephi\io\generator\plugin\MultiGraph.class
+org\gephi\io\generator\plugin\DynamicGraph.class
+META-INF\services\org.gephi.io.generator.spi.Generator

@@ -1,0 +1,5 @@
+org\gephi\ui\upgrader\Installer.class
+org\gephi\ui\upgrader\CopyFiles$1.class
+org\gephi\ui\upgrader\Upgrader.class
+org\gephi\ui\upgrader\CopyFiles$ParserState.class
+org\gephi\ui\upgrader\CopyFiles.class

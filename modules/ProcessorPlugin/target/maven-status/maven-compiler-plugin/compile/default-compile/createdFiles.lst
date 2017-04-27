@@ -1,0 +1,9 @@
+META-INF\services\org.gephi.io.processor.spi.Scaler
+org\gephi\io\processor\plugin\DefaultProcessor.class
+META-INF\services\org.gephi.io.processor.spi.Processor
+org\gephi\io\processor\plugin\MergeProcessor.class
+org\gephi\io\processor\plugin\MultiProcessor.class
+org\gephi\io\processor\plugin\DefaultScaler.class
+org\gephi\io\processor\plugin\AppendProcessor.class
+org\gephi\io\processor\plugin\DefaultProcessor$1.class
+org\gephi\io\processor\plugin\AbstractProcessor.class

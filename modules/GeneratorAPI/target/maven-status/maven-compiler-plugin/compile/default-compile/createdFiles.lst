@@ -1,0 +1,3 @@
+org\gephi\io\generator\spi\Generator.class
+org\gephi\io\generator\spi\GeneratorUI.class
+org\gephi\io\generator\api\GeneratorController.class
